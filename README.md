@@ -1,158 +1,145 @@
-
-<!-- ==================== SHOAIB AKHTAR ==================== -->
+<!-- Profile README for https://github.com/shoaib6875 -->
 
 <div align="center">
-
-# Shoaib Akhtar 👋
-
-### Java Backend Developer | Spring Boot | AWS & DevOps
-
-Final-year B.Tech IT Student · MSIT Delhi
-
-Building backend applications, exploring cloud technologies,
-and solving real-world engineering problems.
-
-<br/>
-
-<a href="https://shoaibakhtar1.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/shoaib-akhtar-a8a07b220/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:shoaibakhtar14082002@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=shoaib6875&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views"/>
-<img src="https://img.shields.io/github/repo-count/shoaib6875?style=flat-square&color=161B22&label=PUBLIC%20REPOS" alt="Public repositories"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=380&lines=Hi%2C+I'm+Shoaib+Akhtar+%F0%9F%91%8B;Java+Backend+%7C+Spring+Boot;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
 </div>
+
+<h3 align="center">Final-year B.Tech IT · MSIT Delhi</h3>
+<p align="center"><b>Java Backend · Spring Boot · Cloud & DevOps</b></p>
+
+<p align="center">
+  <a href="https://shoaibakhtar1.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/shoaib-akhtar-a8a07b220/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shoaibakhtar14082002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshoaib6875&query=%24.public_repos&label=Public%20Repos&style=flat-square&logo=github&color=181717" alt="Public Repos" />
+  <img src="https://komarev.com/ghpvc/?username=shoaib6875&style=flat-square&color=0A66C2" alt="Profile views" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-- ☕ **Backend:** Java, Spring Boot, REST APIs
-- 🗄️ **Databases:** PostgreSQL, MySQL
-- ☁️ **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD
-- 📚 **Currently learning:** DSA, system design, backend architecture
-- 🎯 **Looking for:** Software Engineering and Java Backend opportunities
-
-I enjoy building practical applications, automating infrastructure, and continuously improving my engineering skills.
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔄 RenewIQ
-
-**Subscription & Billing Platform**
-
-A SaaS-style application for managing customers, plans, renewals, invoices, and billing workflows.
-
-`Java` `Spring Boot` `React` `PostgreSQL`
-
-<br/>
-
-<a href="https://renewiq-smartbilling.netlify.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"/>
-</a>
-
-<a href="https://github.com/Renewiq-team/renewiq-frontend">
-  <img src="https://img.shields.io/badge/Frontend_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Frontend code"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### ☸️ Autoscale Web App
-
-**Kubernetes Autoscaling**
-
-A containerized web application using Kubernetes and Horizontal Pod Autoscaling based on CPU utilization.
-
-`Docker` `Kubernetes` `HPA`
-
-<br/>
-
-<a href="https://github.com/shoaib6875/Autoscale-webApp-kubernetes">
-  <img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://github.com/shoaib6875?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_All_Projects-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="All projects"/>
-</a>
-
-</div>
+- 🎓 Final-year **B.Tech IT** student at **MSIT, Delhi**
+- ☕ Building with **Java, Spring Boot, REST APIs & PostgreSQL**
+- ☁️ Hands-on with **AWS, Docker, Kubernetes & CI/CD**
+- 🛠️ Enjoy creating practical systems and automating deployments
+- 📚 Currently focusing on **DSA, backend architecture & cloud-native**
+- 🎯 Open to **Java Backend / Software Engineering / DevOps** roles
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 Featured Projects
 
-<div align="center">
+#### 🔄 RenewIQ — Subscription & Billing Platform
+SaaS-style subscription management covering plans, renewals and billing workflows.
 
-<img src="https://skillicons.dev/icons?i=java,cpp,js,spring,react,nodejs,postgres,mysql,aws,docker,kubernetes,linux,git,githubactions,postman&perline=5" alt="Technologies and tools"/>
+**Tech:** React · Java / Spring Boot · PostgreSQL
 
-<br/><br/>
+<p>
+  <a href="https://renewiq-smartbilling.netlify.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-2ea44f?style=for-the-badge" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/Renewiq-team/renewiq-frontend">
+    <img src="https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github" alt="Frontend" />
+  </a>
+</p>
 
-<img src="https://img.shields.io/badge/Backend-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Containers-Docker_%7C_Kubernetes-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Containers"/>
-<img src="https://img.shields.io/badge/Monitoring-Elasticsearch_%7C_Kibana-005571?style=flat-square&logo=elastic&logoColor=white" alt="Monitoring"/>
+#### ⚙️ Autoscale Web App on Kubernetes
+Containerized app with Horizontal Pod Autoscaling based on CPU utilization.
 
-</div>
+**Tech:** Docker · Kubernetes · HPA
+
+<p>
+  <a href="https://github.com/shoaib6875/Autoscale-webApp-kubernetes">
+    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github" alt="Repository" />
+  </a>
+</p>
+
+<!-- 
+  Add new projects below in the same format:
+
+#### 🆕 Project Name
+Short description of what it does and the problem it solves.
+
+**Tech:** Spring Boot · AWS · Docker
+
+<p>
+  <a href="LIVE_URL"><img src="https://img.shields.io/badge/Live%20Demo-2ea44f?style=for-the-badge" /></a>
+  <a href="REPO_URL"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github" /></a>
+</p>
+-->
 
 ---
 
-## 📊 GitHub Analytics
+### 🧰 Tech Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,cpp,postgres,mysql,aws,docker,kubernetes,linux,git,githubactions,jenkins,postman&perline=6" alt="Tech Stack" />
+</p>
 
-<a href="https://github.com/shoaib6875">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shoaib6875&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
-</a><a href="https://github.com/shoaib6875">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaib6875&layout=compact&langs_count=5&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/shoaib6875">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shoaib6875&theme=github_dark" alt="GitHub contribution history and profile activity"/>
-</a>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Spring%20Boot%20%7C%20REST-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Containers-Docker%20%7C%20K8s-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
 
 ---
 
-## 🤝 Connect
+### 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shoaib6875&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</p>
 
-<a href="https://github.com/shoaib6875">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/shoaib-akhtar-a8a07b220/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-<a href="https://leetcode.com/shoaibakhtar09/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaib6875&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
 
-<br/><br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shoaib6875&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
 
-<i>Build consistently. Learn continuously. Ship useful software. 🚀</i>
+---
 
-</div>
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaib6875&theme=tokyo-night&hide_border=true&area=true&custom_title=Last%2031%20Days&bg_color=0D1117" alt="Contribution Graph" width="100%" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shoaib-akhtar-a8a07b220/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://shoaibakhtar1.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/shoaibakhtar09/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.codechef.com/users/shoaib_5786">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="mailto:shoaibakhtar14082002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building consistently · Learning continuously · Shipping useful software 🚀</i>
+</p>
