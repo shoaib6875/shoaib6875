@@ -1,34 +1,112 @@
-<h1 align="center">Hi 👋, I'm Shoaib Akhtar</h1>
-<h3 align="center">🎓 Final-year IT student at MSIT, Delhi</h3>
+<!-- Profile README for https://github.com/shoaib6875 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaib6875&label=Profile%20views&color=0e75b6&style=flat" alt="shoaib6875" /> </p>
+<h1 align="center">Hi, I'm Shoaib Akhtar 👋</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shoaib6875" alt="shoaib6875" /></a> </p>
+<h3 align="center">Final-year B.Tech IT Student @ MSIT Delhi · Java Backend · Cloud & DevOps</h3>
 
-- 🔭 I’m currently working on [Autoscale-webApp-kubernetes](https://github.com/shoaib6875/Autoscale-webApp-kubernetes)
-
-- 🌱 I’m currently learning **AI - ML**
-
-- 👨‍💻 All of my projects are available at [https://shoaibakhtar1.netlify.app/](https://shoaibakhtar1.netlify.app/)
-
-- 💬 Ask me about **react , springboot, aws**
-
-- 📫 How to reach me **shoaibakhtar14082002@gmail.com**
-
-- ⚡ Fun fact **Building projects, solving problems, and automating things.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shoaib_akhtar09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shoaib_akhtar09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shoaib akhtar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shoaib akhtar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shoaib_5786" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shoaib_5786" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shoaibakhtar09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shoaibakhtar09" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/cbpd6aKe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/cbpd6aKe" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://shoaibakhtar1.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/shoaib-akhtar-a8a07b220/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shoaibakhtar14082002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/shoaib6875">
+    <img src="https://img.shields.io/badge/GitHub-View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshoaib6875&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=181717" alt="Live public repository count" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoaib6875&show_icons=true&locale=en&layout=compact" alt="shoaib6875" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoaib6875&" alt="shoaib6875" /></p>
+## 👨‍💻 About Me
+
+- 🎓 Final-year **B.Tech in Information Technology** student at **MSIT, Delhi**.
+- ☕ Focused on **Java, Spring Boot, backend development, and REST APIs**.
+- ☁️ Hands-on with **AWS, Docker, Kubernetes, CI/CD, and application monitoring**.
+- 🛠️ I enjoy building practical applications and automating deployment workflows.
+- 📚 Currently strengthening **DSA, backend architecture, and cloud-native development**.
+- 🎯 Open to **Software Engineering, Java Backend, and DevOps opportunities**.
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">RenewIQ</h3>
+      <p align="center"><strong>Subscription & Billing Management Platform</strong></p>
+      <p>A SaaS-style subscription management project focused on customer plans, subscriptions, renewals, and billing workflows.</p>
+      <p><strong>Tech:</strong> React, Java/Spring Boot, PostgreSQL</p>
+      <p align="center">
+        <a href="https://renewiq-smartbilling.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-Visit-2ea44f?style=for-the-badge" alt="RenewIQ live demo" /></a>
+        <a href="https://github.com/Renewiq-team/renewiq-frontend"><img src="https://img.shields.io/badge/Frontend-Source-181717?style=for-the-badge&logo=github" alt="RenewIQ frontend repository" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Autoscale Web App on Kubernetes</h3>
+      <p align="center"><strong>Containerization & Automated Scaling</strong></p>
+      <p>A cloud-native deployment project using Docker and Kubernetes, exploring Horizontal Pod Autoscaling (HPA) based on CPU utilization.</p>
+      <p><strong>Tech:</strong> Docker, Kubernetes, HPA</p>
+      <p align="center">
+        <a href="https://github.com/shoaib6875/Autoscale-webApp-kubernetes"><img src="https://img.shields.io/badge/Source%20Code-View%20Repository-181717?style=for-the-badge&logo=github" alt="Autoscale project repository" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- Add another project cell in the table above when a new project is ready to showcase. -->
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,cpp,postgres,mysql,aws,docker,kubernetes,linux,git,githubactions,jenkins,postman&perline=8" alt="Technologies: Java, Spring, React, JavaScript, C++, PostgreSQL, MySQL, AWS, Docker, Kubernetes, Linux, Git, GitHub Actions, Jenkins and Postman" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Spring%20Boot%20%7C%20REST%20APIs-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Backend skills" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Observability-ELK%20%7C%20CloudWatch-005571?style=flat-square" alt="Monitoring skills" />
+</p>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/shoaib6875">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=shoaib6875&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="Shoaib's GitHub statistics" />
+  </a>
+  <a href="https://github.com/shoaib6875">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaib6875&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shoaib6875&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+## 📈 Contribution & Commit Activity
+
+<p align="center">
+  <a href="https://github.com/shoaib6875">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaib6875&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20%28Last%2031%20Days%29" alt="GitHub contribution activity graph for the last 31 days" />
+  </a>
+</p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shoaib-akhtar-a8a07b220/">LinkedIn</a> ·
+  <a href="https://shoaibakhtar1.netlify.app/">Portfolio</a> ·
+  <a href="https://leetcode.com/shoaibakhtar09/">LeetCode</a> ·
+  <a href="https://www.codechef.com/users/shoaib_5786">CodeChef</a> ·
+  <a href="mailto:shoaibakhtar14082002@gmail.com">Email</a>
+</p>
+
+---
+
+<p align="center"><i>Building consistently. Learning continuously. Shipping useful software. 🚀</i></p>
